@@ -48,6 +48,30 @@ research from scratch.
     citation-growth chart later, to avoid double-counting.
 - Added `scripts/requirements.txt` (requests, openpyxl).
 
+### 2026-07-20 — Step 3b: filtering to a clean dataset
+- Decisions confirmed with Vagisha:
+  - The 2022 "Apple Leaf Disease Detection" conference paper is **not
+    hers** (name collision) — permanently excluded.
+  - When a preprint and its later published version both appear, **keep
+    only the published version, drop the preprint**. A preprint with no
+    corresponding published version (e.g. piNET) is kept.
+- These decisions are recorded as data, not just prose, so they're
+  reapplied automatically on every re-fetch:
+  - `data/manual_exclusions.json` — list of confirmed-not-hers OpenAlex IDs
+    with reason + date decided. Add future exclusions here (from the
+    "Not mine? (mark X)" column in the review spreadsheet) rather than
+    editing scripts.
+  - `scripts/filter_works.py` — reusable script implementing both rules
+    (manual exclusion list + preprint/published-version dedup by
+    normalized title match). Reads `data/openalex_works.json`, writes
+    `data/openalex_works_filtered.json` and
+    `data/openalex_works_filtered.xlsx`.
+- Result: **27 works** in the clean filtered dataset (32 raw - 1 excluded -
+  4 superseded preprints).
+- Pipeline going forward: `fetch_openalex_works.py` (raw pull) →
+  `filter_works.py` (apply exclusions/dedup) → `openalex_works_filtered.*`
+  is the dataset the site/charts should be built from.
+
 ### 2026-07-20 — Step 1: scaffolding
 - Created `vsharma-publications/` under `C:\Users\Silmaril\Documents\ws`.
 - `git init`, initial commit (README + .gitignore).
