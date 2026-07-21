@@ -1,0 +1,1624 @@
+window.SITE_DATA = {
+  "generated_at": "2026-07-20",
+  "works": [
+    {
+      "openalex_id": "https://openalex.org/W4416059040",
+      "title": "The ProteomeXchange consortium in 2026: making proteomics data FAIR",
+      "authors": [
+        "Eric W. Deutsch",
+        "Nuno Bandeira",
+        "Yasset Pérez‐Riverol",
+        "Vagisha Sharma",
+        "Jeremy Carver",
+        "Luis Mendoza",
+        "Deepti J Kundu",
+        "Chakradhar Bandla",
+        "Selvakumar Kamatchinathan",
+        "Suresh Hewapathirana",
+        "Zhi Sun",
+        "Shin Kawano",
+        "Shujiro Okuda",
+        "Brian Connolly",
+        "Brendan MacLean",
+        "Michael J. MacCoss",
+        "Tao Chen",
+        "Yunping Zhu",
+        "Yasushi Ishihama",
+        "Juan Antonio Vizcaíno"
+      ],
+      "authors_display": "Eric W. Deutsch, Nuno Bandeira, Yasset Pérez‐Riverol, Vagisha Sharma, Jeremy Carver, ..., Juan Antonio Vizcaíno",
+      "year": 2025,
+      "type": "article",
+      "venue": "Nucleic Acids Research",
+      "link": "https://doi.org/10.1093/nar/gkaf1146",
+      "cited_by_count_total": 33,
+      "citations_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 31
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W4411370226",
+      "title": "Comet Fragment-Ion Indexing for Enhanced Peptide Sequencing",
+      "authors": [
+        "Christopher D. McGann",
+        "Erik J. Bergstrom",
+        "Vagisha Sharma",
+        "Lilian R. Heil",
+        "Qing Yu",
+        "Jimmy K. Eng",
+        "Devin K. Schweppe"
+      ],
+      "authors_display": "Christopher D. McGann, Erik J. Bergstrom, Vagisha Sharma, Lilian R. Heil, Qing Yu, ..., Devin K. Schweppe",
+      "year": 2025,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/acs.jproteome.4c01094",
+      "cited_by_count_total": 4,
+      "citations_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W4408392636",
+      "title": "Comprehensive Proteomics Metadata and Integrative Web Portals Facilitate Sharing and Integration of LINCS Multiomics Data",
+      "authors": [
+        "D. Vidović",
+        "Behrouz Shamsaei",
+        "Stephan C. Schürer",
+        "Phillip Kogan",
+        "Szymon Chojnacki",
+        "Michal Kouril",
+        "Mario Medvedovic",
+        "Wen Niu",
+        "Evren U. Azeloglu",
+        "Marc R. Birtwistle",
+        "Yibang Chen",
+        "Tong Chen",
+        "Jens Hansen",
+        "Bin Hu",
+        "Ravi Iyengar",
+        "Gomathi Jayaraman",
+        "Hong Li",
+        "Tong Liu",
+        "Eric A. Sobie",
+        "Yuguang Xiong",
+        "Matthew J. Berberich",
+        "Gary A. Bradshaw",
+        "Mirra Chung",
+        "Robert A. Everley",
+        "Benjamin L. Gaudio",
+        "Marc Hafner",
+        "Marian Kalocsay",
+        "Caitlin E. Mills",
+        "Maulik K. Nariya",
+        "Peter K. Sorger",
+        "Kartik Subramanian",
+        "Chiara Victor",
+        "Maria G. Bañuelos",
+        "Victoria Dardov",
+        "Ronald J. Holewinski",
+        "Danica-Mae Manalo",
+        "Berhan Mandefro",
+        "Andrea Matlock",
+        "Loren Ornelas",
+        "Dhruv Sareen",
+        "Clive N. Svendsen",
+        "Vineet Vaibhav",
+        "Jennifer E. Van Eyk",
+        "Vidya Venkatraman",
+        "Steve Finkbiener",
+        "Ernest Fraenkel",
+        "Jeffrey D. Rothstein",
+        "Leslie M. Thompson",
+        "Jacob K. Asiedu",
+        "Steven A. Carr",
+        "Karen E. Christianson",
+        "Desiree Davison",
+        "Deborah Dele‐Oni",
+        "Katherine C. DeRuff",
+        "Shawn B. Egri",
+        "Alvaro Sebastian Vaca Jácome",
+        "Jacob D. Jaffe",
+        "Daniel D. Lam",
+        "Lev Litichevskiy",
+        "Xiaodong Lü",
+        "James Mullahoo",
+        "Adam Officer",
+        "Malvina Papanastasiou",
+        "Ryan Peckner",
+        "Caidin Toder",
+        "Joel Blanchard",
+        "Michael Bula",
+        "Tak Ko",
+        "Li‐Huei Tsai",
+        "Jennie Z. Young",
+        "Vagisha Sharma",
+        "Ajay Pillai",
+        "Jarek Meller",
+        "Michael J. MacCoss"
+      ],
+      "authors_display": "D. Vidović, Behrouz Shamsaei, Stephan C. Schürer, Phillip Kogan, Szymon Chojnacki, ..., Michael J. MacCoss",
+      "year": 2025,
+      "type": "article",
+      "venue": "Molecular & Cellular Proteomics",
+      "link": "https://doi.org/10.1016/j.mcpro.2025.100947",
+      "cited_by_count_total": 1,
+      "citations_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W4413094228",
+      "title": "Corrigendum to “Comprehensive Proteomics Metadata and Integrative Web Portals Facilitate Sharing and Integration of LINCS Multiomics Data”",
+      "authors": [
+        "D. Vidović",
+        "Behrouz Shamsaei",
+        "Stephan C. Schürer",
+        "Phillip Kogan",
+        "Szymon Chojnacki",
+        "Michal Kouril",
+        "Mario Medvedovic",
+        "Wen Niu",
+        "Evren U. Azeloglu",
+        "Marc R. Birtwistle",
+        "Yibang Chen",
+        "Tong Chen",
+        "Jens Hansen",
+        "Bin Hu",
+        "Ravi Iyengar",
+        "Gomathi Jayaraman",
+        "Hong Li",
+        "Tong Liu",
+        "Eric A. Sobie",
+        "Yuguang Xiong",
+        "Matthew J. Berberich",
+        "Gary A. Bradshaw",
+        "Mirra Chung",
+        "Robert A. Everley",
+        "Benjamin L. Gaudio",
+        "Marc Hafner",
+        "Marian Kalocsay",
+        "Caitlin E. Mills",
+        "Maulik K. Nariya",
+        "Peter K. Sorger",
+        "Kartik Subramanian",
+        "Chiara Victor",
+        "Maria G. Bañuelos",
+        "Victoria Dardov",
+        "Ronald J. Holewinski",
+        "Danica-Mae Manalo",
+        "Berhan Mandefro",
+        "Andrea Matlock",
+        "Loren Ornelas",
+        "Dhruv Sareen",
+        "Clive N. Svendsen",
+        "Vineet Vaibhav",
+        "Jennifer E. Van Eyk",
+        "Vidya Venkatraman",
+        "Steve Finkbiener",
+        "Ernest Fraenkel",
+        "Jeffrey D. Rothstein",
+        "Leslie M. Thompson",
+        "Jacob K. Asiedu",
+        "Steven A. Carr",
+        "Karen E. Christianson",
+        "Desiree Davison",
+        "Deborah Dele‐Oni",
+        "Katherine C. DeRuff",
+        "Shawn B. Egri",
+        "Alvaro Sebastian Vaca Jácome",
+        "Jacob D. Jaffe",
+        "Daniel D. Lam",
+        "Lev Litichevskiy",
+        "Xiaodong Lü",
+        "James Mullahoo",
+        "Adam Officer",
+        "Malvina Papanastasiou",
+        "Ryan Peckner",
+        "Caidin Toder",
+        "Joel Blanchard",
+        "Michael Bula",
+        "Tak Ko",
+        "Li‐Huei Tsai",
+        "Jennie Z. Young",
+        "Vagisha Sharma",
+        "Jarek Meller",
+        "Michael J. MacCoss"
+      ],
+      "authors_display": "D. Vidović, Behrouz Shamsaei, Stephan C. Schürer, Phillip Kogan, Szymon Chojnacki, ..., Michael J. MacCoss",
+      "year": 2025,
+      "type": "erratum",
+      "venue": "Molecular & Cellular Proteomics",
+      "link": "https://doi.org/10.1016/j.mcpro.2025.100995",
+      "cited_by_count_total": 0,
+      "citations_by_year": []
+    },
+    {
+      "openalex_id": "https://openalex.org/W4402363242",
+      "title": "A Framework for Quality Control in Quantitative Proteomics",
+      "authors": [
+        "Kristine A. Tsantilas",
+        "Gennifer E. Merrihew",
+        "Julia Robbins",
+        "Richard S. Johnson",
+        "Jea Park",
+        "Deanna L. Plubell",
+        "Jesse D. Canterbury",
+        "Eric Huang",
+        "Michael Riffle",
+        "Vagisha Sharma",
+        "Brendan MacLean",
+        "Josh Eckels",
+        "Christine Wu",
+        "Michael S. Bereman",
+        "Sandra E. Spencer Miko",
+        "Andrew N. Hoofnagle",
+        "Michael J. MacCoss"
+      ],
+      "authors_display": "Kristine A. Tsantilas, Gennifer E. Merrihew, Julia Robbins, Richard S. Johnson, Jea Park, ..., Michael J. MacCoss",
+      "year": 2024,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/acs.jproteome.4c00363",
+      "cited_by_count_total": 28,
+      "citations_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 10
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W4308834828",
+      "title": "The ProteomeXchange consortium at 10 years: 2023 update",
+      "authors": [
+        "Eric W. Deutsch",
+        "Nuno Bandeira",
+        "Yasset Pérez‐Riverol",
+        "Vagisha Sharma",
+        "Jeremy Carver",
+        "Luis Mendoza",
+        "Deepti J Kundu",
+        "Shengbo Wang",
+        "Chakradhar Bandla",
+        "Selvakumar Kamatchinathan",
+        "Suresh Hewapathirana",
+        "Benjamin Pullman",
+        "Julie Wertz",
+        "Zhi Sun",
+        "Shin Kawano",
+        "Shujiro Okuda",
+        "Yu Watanabe",
+        "Brendan MacLean",
+        "Michael J. MacCoss",
+        "Yunping Zhu",
+        "Yasushi Ishihama",
+        "Juan Antonio Vizcaíno"
+      ],
+      "authors_display": "Eric W. Deutsch, Nuno Bandeira, Yasset Pérez‐Riverol, Vagisha Sharma, Jeremy Carver, ..., Juan Antonio Vizcaíno",
+      "year": 2022,
+      "type": "article",
+      "venue": "Nucleic Acids Research",
+      "link": "https://doi.org/10.1093/nar/gkac1040",
+      "cited_by_count_total": 876,
+      "citations_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 142
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 301
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 296
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 136
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W4200628136",
+      "title": "Skyline Batch: An Intuitive User Interface for Batch Processing with Skyline",
+      "authors": [
+        "Alexandra N. Marsh",
+        "Vagisha Sharma",
+        "Surya K. Mani",
+        "Olga Vitek",
+        "Michael J. MacCoss",
+        "Brendan MacLean"
+      ],
+      "authors_display": "Alexandra N. Marsh, Vagisha Sharma, Surya K. Mani, Olga Vitek, Michael J. MacCoss, Brendan MacLean",
+      "year": 2021,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/acs.jproteome.1c00749",
+      "cited_by_count_total": 9,
+      "citations_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W3195784177",
+      "title": "Proteomic profiling dataset of chemical perturbations in multiple biological backgrounds",
+      "authors": [
+        "Deborah Dele‐Oni",
+        "Karen E. Christianson",
+        "Shawn B. Egri",
+        "Alvaro Sebastian Vaca Jácome",
+        "Katherine C. DeRuff",
+        "James Mullahoo",
+        "Vagisha Sharma",
+        "Desiree Davison",
+        "Tak Ko",
+        "Michael Bula",
+        "Joel Blanchard",
+        "Jennie Z. Young",
+        "Lev Litichevskiy",
+        "Xiaodong Lü",
+        "Daniel D. Lam",
+        "Jacob K. Asiedu",
+        "Caidin Toder",
+        "Adam Officer",
+        "Ryan Peckner",
+        "Michael J. MacCoss",
+        "Li‐Huei Tsai",
+        "Steven A. Carr",
+        "Malvina Papanastasiou",
+        "Jacob D. Jaffe"
+      ],
+      "authors_display": "Deborah Dele‐Oni, Karen E. Christianson, Shawn B. Egri, Alvaro Sebastian Vaca Jácome, Katherine C. DeRuff, ..., Jacob D. Jaffe",
+      "year": 2021,
+      "type": "data-paper",
+      "venue": "Scientific Data",
+      "link": "https://doi.org/10.1038/s41597-021-01008-4",
+      "cited_by_count_total": 17,
+      "citations_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W3000364256",
+      "title": "A proteomic atlas of senescence-associated secretomes for aging biomarker development",
+      "authors": [
+        "Nathan Basisty",
+        "Abhijit Kale",
+        "Ok Hee Jeon",
+        "Chisaka Kuehnemann",
+        "Therese Payne",
+        "Chirag Rao",
+        "Anja Holtz",
+        "Samah Shah",
+        "Vagisha Sharma",
+        "Luigi Ferrucci",
+        "Judith Campisi",
+        "Birgit Schilling"
+      ],
+      "authors_display": "Nathan Basisty, Abhijit Kale, Ok Hee Jeon, Chisaka Kuehnemann, Therese Payne, ..., Birgit Schilling",
+      "year": 2020,
+      "type": "article",
+      "venue": "PLoS Biology",
+      "link": "https://doi.org/10.1371/journal.pbio.3000599",
+      "cited_by_count_total": 1312,
+      "citations_by_year": [
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 83
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 183
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 213
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 222
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 246
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 229
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 133
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W3003572520",
+      "title": "Skyline for Small Molecules: A Unifying Software Package for Quantitative Metabolomics",
+      "authors": [
+        "Kendra J. Adams",
+        "Brian Pratt",
+        "Neelanjan Bose",
+        "Laura G. Dubois",
+        "Lisa St. John‐Williams",
+        "Kevin M. Perrott",
+        "Karina Ky",
+        "Pankaj Kapahi",
+        "Vagisha Sharma",
+        "Michael J. MacCoss",
+        "M. Arthur Moseley",
+        "Carol A. Colton",
+        "Brendan MacLean",
+        "Birgit Schilling",
+        "J. Will Thompson",
+        "Alzheimer’s Disease Metabolomics Consortium"
+      ],
+      "authors_display": "Kendra J. Adams, Brian Pratt, Neelanjan Bose, Laura G. Dubois, Lisa St. John‐Williams, ..., Alzheimer’s Disease Metabolomics Consortium",
+      "year": 2020,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/acs.jproteome.9b00640",
+      "cited_by_count_total": 637,
+      "citations_by_year": [
+        {
+          "year": 2020,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 57
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 76
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 117
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 157
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 140
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 77
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W3030308483",
+      "title": "Audit logs to enforce document integrity in Skyline and Panorama",
+      "authors": [
+        "Tobias Rohde",
+        "Rita Chupalov",
+        "Nicholas Shulman",
+        "Vagisha Sharma",
+        "Josh Eckels",
+        "Brian Pratt",
+        "Michael J. MacCoss",
+        "Brendan MacLean"
+      ],
+      "authors_display": "Tobias Rohde, Rita Chupalov, Nicholas Shulman, Vagisha Sharma, Josh Eckels, ..., Brendan MacLean",
+      "year": 2020,
+      "type": "article",
+      "venue": "Bioinformatics",
+      "link": "https://doi.org/10.1093/bioinformatics/btaa547",
+      "cited_by_count_total": 5,
+      "citations_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W3002003161",
+      "title": "The HUPO-PSI standardized spectral library format",
+      "authors": [
+        "Ralf Gabriels",
+        "Nuno Bandeira",
+        "Wout Bittremieux",
+        "Jeremy Carver",
+        "Chambers, Matthew",
+        "Shin Kawano",
+        "Henry Lam",
+        "Tytus D. Mak",
+        "Yasset Pérez‐Riverol",
+        "Benjamin J Pullman",
+        "Vagisha Sharma",
+        "Jim Shofstahl",
+        "Tim Van Den Bossche",
+        "Juan Antonio Vizcaíno",
+        "Yunping Zhu",
+        "Eric W. Deutsch"
+      ],
+      "authors_display": "Ralf Gabriels, Nuno Bandeira, Wout Bittremieux, Jeremy Carver, Chambers, Matthew, ..., Eric W. Deutsch",
+      "year": 2020,
+      "type": "conference-paper",
+      "venue": "Ghent University Academic Bibliography (Ghent University)",
+      "link": "https://doi.org/10.5281/zenodo.3607178",
+      "cited_by_count_total": 0,
+      "citations_by_year": []
+    },
+    {
+      "openalex_id": "https://openalex.org/W2986041539",
+      "title": "The ProteomeXchange consortium in 2020: enabling ‘big data’ approaches in proteomics",
+      "authors": [
+        "Eric W. Deutsch",
+        "Nuno Bandeira",
+        "Vagisha Sharma",
+        "Yasset Pérez‐Riverol",
+        "Jeremy Carver",
+        "Deepti J Kundu",
+        "David García‐Seisdedos",
+        "Andrew F. Jarnuczak",
+        "Suresh Hewapathirana",
+        "Benjamin Pullman",
+        "Julie Wertz",
+        "Zhi Sun",
+        "Shin Kawano",
+        "Shujiro Okuda",
+        "Yu Watanabe",
+        "Henning Hermjakob",
+        "Brendan MacLean",
+        "Michael J. MacCoss",
+        "Yunping Zhu",
+        "Yasushi Ishihama",
+        "Juan Antonio Vizcaíno"
+      ],
+      "authors_display": "Eric W. Deutsch, Nuno Bandeira, Vagisha Sharma, Yasset Pérez‐Riverol, Jeremy Carver, ..., Juan Antonio Vizcaíno",
+      "year": 2019,
+      "type": "article",
+      "venue": "Nucleic Acids Research",
+      "link": "https://doi.org/10.1093/nar/gkz984",
+      "cited_by_count_total": 778,
+      "citations_by_year": [
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 80
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 159
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 207
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 159
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 111
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 50
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 10
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2937896859",
+      "title": "piNET: a versatile web platform for downstream analysis and visualization of proteomics data",
+      "authors": [
+        "Behrouz Shamsaei",
+        "Szymon Chojnacki",
+        "Marcin Pilarczyk",
+        "Mehdi Fazel Najafabadi",
+        "Chuming Chen",
+        "Karen Ross",
+        "Andrea Matlock",
+        "Jeremy L. Muhlich",
+        "Somchai Chutipongtanate",
+        "D. Vidović",
+        "Vagisha Sharma",
+        "Juozas Vasiliauskas",
+        "Jake Jaffe",
+        "Michael J. MacCoss",
+        "Cathy Wu",
+        "Ajay Pillai",
+        "Avi Ma’ayan",
+        "Stephan C. Schürer",
+        "Mario Medvedovic",
+        "Jarek Meller"
+      ],
+      "authors_display": "Behrouz Shamsaei, Szymon Chojnacki, Marcin Pilarczyk, Mehdi Fazel Najafabadi, Chuming Chen, ..., Jarek Meller",
+      "year": 2019,
+      "type": "preprint",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "link": "https://doi.org/10.1101/607432",
+      "cited_by_count_total": 2,
+      "citations_by_year": [
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2793610094",
+      "title": "Panorama Public: A Public Repository for Quantitative Data Sets Processed in Skyline",
+      "authors": [
+        "Vagisha Sharma",
+        "Josh Eckels",
+        "Birgit Schilling",
+        "Christina Ludwig",
+        "Jacob D. Jaffe",
+        "Michael J. MacCoss",
+        "Brendan MacLean"
+      ],
+      "authors_display": "Vagisha Sharma, Josh Eckels, Birgit Schilling, Christina Ludwig, Jacob D. Jaffe, ..., Brendan MacLean",
+      "year": 2018,
+      "type": "article",
+      "venue": "Molecular & Cellular Proteomics",
+      "link": "https://doi.org/10.1074/mcp.ra117.000543",
+      "cited_by_count_total": 286,
+      "citations_by_year": [
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 22
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 40
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 42
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 39
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 37
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 42
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 38
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 16
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2751974426",
+      "title": "A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations",
+      "authors": [
+        "Lev Litichevskiy",
+        "Ryan Peckner",
+        "Jennifer G. Abelin",
+        "Jacob K. Asiedu",
+        "Amanda L. Creech",
+        "John F. Davis",
+        "Desiree Davison",
+        "Caitlin M. Dunning",
+        "Jarrett D. Egertson",
+        "Shawn B. Egri",
+        "Joshua Gould",
+        "Tak Ko",
+        "Sarah Johnson",
+        "David L. Lahr",
+        "Daniel D. Lam",
+        "Zihan Liu",
+        "Nicholas Lyons",
+        "Xiaodong Lü",
+        "Brendan MacLean",
+        "Alison E. Mungenast",
+        "Adam Officer",
+        "Ted Natoli",
+        "Malvina Papanastasiou",
+        "Jinal Patel",
+        "Vagisha Sharma",
+        "Courtney Toder",
+        "Andrew A. Tubelli",
+        "Jennie Z. Young",
+        "Steven A. Carr",
+        "Todd R. Golub",
+        "Aravind Subramanian",
+        "Michael J. MacCoss",
+        "Li‐Huei Tsai",
+        "Jacob D. Jaffe"
+      ],
+      "authors_display": "Lev Litichevskiy, Ryan Peckner, Jennifer G. Abelin, Jacob K. Asiedu, Amanda L. Creech, ..., Jacob D. Jaffe",
+      "year": 2018,
+      "type": "article",
+      "venue": "Cell Systems",
+      "link": "https://doi.org/10.1016/j.cels.2018.03.012",
+      "cited_by_count_total": 96,
+      "citations_by_year": [
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2469445017",
+      "title": "Using the CPTAC Assay Portal to Identify and Implement Highly Characterized Targeted Proteomics Assays",
+      "authors": [
+        "Jeffrey R. Whiteaker",
+        "Goran N. Halusa",
+        "Andrew N. Hoofnagle",
+        "Vagisha Sharma",
+        "Brendan MacLean",
+        "Ping Yan",
+        "John A. Wrobel",
+        "Jacob J. Kennedy",
+        "D.R. Mani",
+        "Lisa J. Zimmerman",
+        "Matthew R. Meyer",
+        "Mehdi Mesri",
+        "Emily S. Boja",
+        "Steven A. Carr",
+        "Daniel W. Chan",
+        "Xian Chen",
+        "Jing Chen",
+        "Sherri R. Davies",
+        "Matthew J. Ellis",
+        "David Fenyö",
+        "Tara Hiltke",
+        "Karen A. Ketchum",
+        "Chris Kinsinger",
+        "Eric Kuhn",
+        "D.C. Liebler",
+        "Tao Liu",
+        "Michael Loss",
+        "Michael J. MacCoss",
+        "Weijun Qian",
+        "Robert Rivers",
+        "Karin Rodland",
+        "Kelly V. Ruggles",
+        "Mitchell G. Scott",
+        "Richard Smith",
+        "Stefani N. Thomas",
+        "R. Reid Townsend",
+        "Gordon Whiteley",
+        "Chaochao Wu",
+        "Hui Zhang",
+        "Zhen Zhang",
+        "Henry Rodriguez",
+        "Amanda G. Paulovich"
+      ],
+      "authors_display": "Jeffrey R. Whiteaker, Goran N. Halusa, Andrew N. Hoofnagle, Vagisha Sharma, Brendan MacLean, ..., Amanda G. Paulovich",
+      "year": 2016,
+      "type": "book-chapter",
+      "venue": "Methods in molecular biology",
+      "link": "https://doi.org/10.1007/978-1-4939-3524-6_13",
+      "cited_by_count_total": 101,
+      "citations_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 60
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2524383220",
+      "title": "An Automated Pipeline to Monitor System Performance in Liquid Chromatography–Tandem Mass Spectrometry Proteomic Experiments",
+      "authors": [
+        "Michael S. Bereman",
+        "Joshua Beri",
+        "Vagisha Sharma",
+        "Cory Nathe",
+        "Josh Eckels",
+        "Brendan MacLean",
+        "Michael J. MacCoss"
+      ],
+      "authors_display": "Michael S. Bereman, Joshua Beri, Vagisha Sharma, Cory Nathe, Josh Eckels, ..., Michael J. MacCoss",
+      "year": 2016,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/acs.jproteome.6b00744",
+      "cited_by_count_total": 74,
+      "citations_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W768464191",
+      "title": "Visualization and Dissemination of Multidimensional Proteomics Data Comparing Protein Abundance During <i>Caenorhabditis elegans</i> Development",
+      "authors": [
+        "Michael Riffle",
+        "Gennifer E. Merrihew",
+        "Daniel Jaschob",
+        "Vagisha Sharma",
+        "Trisha N. Davis",
+        "William Stafford Noble",
+        "Michael J. MacCoss"
+      ],
+      "authors_display": "Michael Riffle, Gennifer E. Merrihew, Daniel Jaschob, Vagisha Sharma, Trisha N. Davis, ..., Michael J. MacCoss",
+      "year": 2015,
+      "type": "article",
+      "venue": "Journal of the American Society for Mass Spectrometry",
+      "link": "https://doi.org/10.1007/s13361-015-1193-z",
+      "cited_by_count_total": 7,
+      "citations_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2012900739",
+      "title": "CPTAC Assay Portal: a repository of targeted proteomic assays",
+      "authors": [
+        "Jeffrey R. Whiteaker",
+        "Goran N. Halusa",
+        "Andrew N. Hoofnagle",
+        "Vagisha Sharma",
+        "Brendan MacLean",
+        "Ping Yan",
+        "John A. Wrobel",
+        "Jacob J. Kennedy",
+        "D.R. Mani",
+        "Lisa J. Zimmerman",
+        "Matthew R. Meyer",
+        "Mehdi Mesri",
+        "Henry Rodriguez",
+        "Amanda G. Paulovich"
+      ],
+      "authors_display": "Jeffrey R. Whiteaker, Goran N. Halusa, Andrew N. Hoofnagle, Vagisha Sharma, Brendan MacLean, ..., Amanda G. Paulovich",
+      "year": 2014,
+      "type": "article",
+      "venue": "Nature Methods",
+      "link": "https://doi.org/10.1038/nmeth.3002",
+      "cited_by_count_total": 265,
+      "citations_by_year": [
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 24
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 36
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 75
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 7
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W1995403127",
+      "title": "Panorama: A Targeted Proteomics Knowledge Base",
+      "authors": [
+        "Vagisha Sharma",
+        "Josh Eckels",
+        "Greg Taylor",
+        "Nicholas Shulman",
+        "Andrew B. Stergachis",
+        "Shannon Joyner",
+        "Ping Yan",
+        "Jeffrey R. Whiteaker",
+        "Goran N. Halusa",
+        "Birgit Schilling",
+        "Bradford W. Gibson",
+        "Christopher M. Colangelo",
+        "Amanda G. Paulovich",
+        "Steven A. Carr",
+        "Jacob D. Jaffe",
+        "Michael J. MacCoss",
+        "Brendan MacLean"
+      ],
+      "authors_display": "Vagisha Sharma, Josh Eckels, Greg Taylor, Nicholas Shulman, Andrew B. Stergachis, ..., Brendan MacLean",
+      "year": 2014,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/pr5006636",
+      "cited_by_count_total": 237,
+      "citations_by_year": [
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 24
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 24
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 27
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 26
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 18
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2101186567",
+      "title": "A framework for installable external tools in Skyline",
+      "authors": [
+        "Daniel Broudy",
+        "Trevor Killeen",
+        "Meena Choi",
+        "Nicholas Shulman",
+        "D.R. Mani",
+        "Susan E. Abbatiello",
+        "D.R. Mani",
+        "Rushdy Ahmad",
+        "Alexandria K. Sahu",
+        "Birgit Schilling",
+        "Kaipo Tamura",
+        "Yuval Boss",
+        "Vagisha Sharma",
+        "Bradford W. Gibson",
+        "Steven A. Carr",
+        "Olga Vitek",
+        "Michael J. MacCoss",
+        "Brendan MacLean"
+      ],
+      "authors_display": "Daniel Broudy, Trevor Killeen, Meena Choi, Nicholas Shulman, D.R. Mani, ..., Brendan MacLean",
+      "year": 2014,
+      "type": "article",
+      "venue": "Bioinformatics",
+      "link": "https://doi.org/10.1093/bioinformatics/btu148",
+      "cited_by_count_total": 36,
+      "citations_by_year": [
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2015278001",
+      "title": "XLink-DB: Database and Software Tools for Storing and Visualizing Protein Interaction Topology Data",
+      "authors": [
+        "Chunxiang Zheng",
+        "Chad R. Weisbrod",
+        "Juan D. Chavez",
+        "Jimmy K. Eng",
+        "Vagisha Sharma",
+        "Xia Wu",
+        "James E. Bruce"
+      ],
+      "authors_display": "Chunxiang Zheng, Chad R. Weisbrod, Juan D. Chavez, Jimmy K. Eng, Vagisha Sharma, ..., James E. Bruce",
+      "year": 2013,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/pr301162j",
+      "cited_by_count_total": 50,
+      "citations_by_year": [
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2033758263",
+      "title": "A Mass Spectrometry Proteomics Data Management Platform",
+      "authors": [
+        "Vagisha Sharma",
+        "Jimmy K. Eng",
+        "Michael J. MacCoss",
+        "Michael Riffle"
+      ],
+      "authors_display": "Vagisha Sharma, Jimmy K. Eng, Michael J. MacCoss, Michael Riffle",
+      "year": 2012,
+      "type": "article",
+      "venue": "Molecular & Cellular Proteomics",
+      "link": "https://doi.org/10.1074/mcp.o111.015149",
+      "cited_by_count_total": 41,
+      "citations_by_year": [
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W818589921",
+      "title": "P1) Technology Development in a Multidisciplinary Center",
+      "authors": [
+        "Trisha N. Davis",
+        "Daniel A. Skelly",
+        "Gennifer E. Merrihew",
+        "Michael Riffle",
+        "Sara J. Cooper",
+        "Emily Mitchell",
+        "Beth Graczyk",
+        "Vagisha Sharma",
+        "Daniel Jaschob",
+        "William Stafford Noble",
+        "Stanley Fields",
+        "Michael J. MacCoss",
+        "Eric G. Muller",
+        "Maitreya J. Dunham",
+        "Joshua M. Akey"
+      ],
+      "authors_display": "Trisha N. Davis, Daniel A. Skelly, Gennifer E. Merrihew, Michael Riffle, Sara J. Cooper, ..., Joshua M. Akey",
+      "year": 2012,
+      "type": "article",
+      "venue": "Europe PMC (PubMed Central)",
+      "link": "http://europepmc.org/articles/PMC3630640",
+      "cited_by_count_total": 0,
+      "citations_by_year": []
+    },
+    {
+      "openalex_id": "https://openalex.org/W1981285461",
+      "title": "Precursor Charge State Prediction for Electron Transfer Dissociation Tandem Mass Spectra",
+      "authors": [
+        "Vagisha Sharma",
+        "Jimmy K. Eng",
+        "Sergey Feldman",
+        "Priska D. von Haller",
+        "Michael J. MacCoss",
+        "William Stafford Noble"
+      ],
+      "authors_display": "Vagisha Sharma, Jimmy K. Eng, Sergey Feldman, Priska D. von Haller, Michael J. MacCoss, William Stafford Noble",
+      "year": 2010,
+      "type": "article",
+      "venue": "Journal of Proteome Research",
+      "link": "https://doi.org/10.1021/pr1006685",
+      "cited_by_count_total": 13,
+      "citations_by_year": [
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ]
+    },
+    {
+      "openalex_id": "https://openalex.org/W2068703118",
+      "title": "Corra: Computational framework and tools for LC-MS discovery and targeted mass spectrometry-based proteomics",
+      "authors": [
+        "Mi‐Youn Brusniak",
+        "Bernd Bodenmiller",
+        "David Campbell",
+        "Kelly Cooke",
+        "James S. Eddes",
+        "Andrew Garbutt",
+        "Hollis Lau",
+        "Simon Letarte",
+        "Lukas Mueller",
+        "Vagisha Sharma",
+        "Olga Vitek",
+        "Ning Zhang",
+        "Ruedi Aebersold",
+        "Julian D. Watts"
+      ],
+      "authors_display": "Mi‐Youn Brusniak, Bernd Bodenmiller, David Campbell, Kelly Cooke, James S. Eddes, ..., Julian D. Watts",
+      "year": 2008,
+      "type": "article",
+      "venue": "BMC Bioinformatics",
+      "link": "https://doi.org/10.1186/1471-2105-9-542",
+      "cited_by_count_total": 74,
+      "citations_by_year": [
+        {
+          "year": 2012,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ]
+    }
+  ]
+};

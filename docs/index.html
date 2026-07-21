@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vagisha Sharma — Publications</title>
+<meta name="description" content="Publications and citation growth for Vagisha Sharma, Genome Sciences, University of Washington.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+
+  <header class="masthead">
+    <div>
+      <h1>Vagisha Sharma</h1>
+      <p class="affiliation">Genome Sciences, University of Washington</p>
+    </div>
+    <div class="header-links">
+      <a href="https://orcid.org/0000-0003-1922-439X" target="_blank" rel="noopener">ORCID ↗</a>
+    </div>
+  </header>
+  <p class="updated-note" id="updated-note"></p>
+
+  <div class="stat-row" id="stat-row"></div>
+
+  <section>
+    <h2>Citation growth</h2>
+    <p class="section-sub">Per-year citation counts from OpenAlex are available from 2012 onward; earlier citations (under 1% of the total) aren't broken out by year.</p>
+    <div class="chart-grid">
+
+      <figure class="chart-card">
+        <figcaption>
+          <span class="chart-title">Citations per year</span>
+          <button class="table-toggle" data-target="chart-citations-per-year">View as table</button>
+        </figcaption>
+        <div id="chart-citations-per-year"></div>
+      </figure>
+
+      <figure class="chart-card">
+        <figcaption>
+          <span class="chart-title">Cumulative citations</span>
+          <button class="table-toggle" data-target="chart-cumulative-citations">View as table</button>
+        </figcaption>
+        <div id="chart-cumulative-citations"></div>
+      </figure>
+
+      <figure class="chart-card">
+        <figcaption>
+          <span class="chart-title">Publications per year</span>
+          <button class="table-toggle" data-target="chart-publications-per-year">View as table</button>
+        </figcaption>
+        <div id="chart-publications-per-year"></div>
+      </figure>
+
+      <figure class="chart-card">
+        <figcaption>
+          <span class="chart-title">Citations by year, per paper</span>
+          <button class="table-toggle" data-target="chart-per-paper">View as table</button>
+        </figcaption>
+        <div class="paper-picker">
+          <select id="paper-picker-select" aria-label="Choose a paper"></select>
+          <span class="picker-total" id="paper-picker-total"></span>
+        </div>
+        <div id="chart-per-paper"></div>
+      </figure>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Papers</h2>
+    <p class="section-sub">Sorted by citation count by default — click a column header to change, or filter below.</p>
+    <div class="table-filters">
+      <input type="search" id="table-search" placeholder="Filter by title, author, or venue…" aria-label="Filter papers">
+      <select id="table-type-filter" aria-label="Filter by publication type">
+        <option value="">All types</option>
+      </select>
+    </div>
+    <p class="table-count" id="table-count"></p>
+    <div class="papers-table-wrap">
+      <table class="papers-table">
+        <thead>
+          <tr>
+            <th data-key="title">Title <span class="sort-arrow">↕</span></th>
+            <th data-key="authors_display">Authors <span class="sort-arrow">↕</span></th>
+            <th data-key="year">Year <span class="sort-arrow">↕</span></th>
+            <th data-key="venue">Venue <span class="sort-arrow">↕</span></th>
+            <th data-key="type">Type <span class="sort-arrow">↕</span></th>
+            <th data-key="cited_by_count_total" class="col-citations">Citations <span class="sort-arrow">↕</span></th>
+          </tr>
+        </thead>
+        <tbody id="papers-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>Publication and citation data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>, matched by <a href="https://orcid.org/0000-0003-1922-439X" target="_blank" rel="noopener">ORCID 0000-0003-1922-439X</a>. Source and data pipeline: <a href="https://github.com/vagisha/vsharma-publications" target="_blank" rel="noopener">github.com/vagisha/vsharma-publications</a>.</p>
+  </footer>
+
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

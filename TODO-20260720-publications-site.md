@@ -65,6 +65,32 @@ research from scratch.
 
 ## Log
 
+### 2026-07-20 — Step 4: building the page
+- Built a static site in `docs/` (plain HTML/CSS/JS, no build tooling,
+  no runtime dependencies) — ready for GitHub Pages to serve directly from
+  that folder.
+  - `docs/index.html` — page structure
+  - `docs/style.css` — theme (light/dark via `prefers-color-scheme`) and
+    component styles, following the studio dataviz color/mark spec
+    (single blue series, thin bars, 2px lines, hairline gridlines, sparing
+    direct labels)
+  - `docs/app.js` — computes stat tiles (total papers, total citations,
+    h-index, years active) and all four chart series from the data at
+    load time; hand-rolled SVG bar/line chart renderer with hover +
+    keyboard-focus tooltips and a "View as table" accessibility toggle per
+    chart; sortable/filterable papers table
+  - `scripts/build_site_data.py` — new pipeline step, turns
+    `data/openalex_works_filtered.json` into `docs/data.js` (embedded as a
+    script tag rather than fetched, so the page works over `file://` too,
+    not just when served over http)
+- Full pipeline is now: `fetch_openalex_works.py` → `filter_works.py` →
+  `build_site_data.py` → commit `docs/` → (next) enable GitHub Pages.
+- Tested in-browser (light + dark mode, desktop + mobile width): stat
+  tiles, all 4 charts, per-paper picker, table sort/filter/toggle-to-table
+  all verified working.
+- **Not done yet:** GitHub Pages isn't enabled on the repo, so the site
+  isn't live at a URL yet — that's step 5, waiting for a go-ahead.
+
 ### 2026-07-20 — Step 3: fetching the publication dataset from OpenAlex
 - Decision: use **OpenAlex** (not Semantic Scholar) as the data source,
   filtered by ORCID `author.orcid:0000-0003-1922-439X`. This avoids the
