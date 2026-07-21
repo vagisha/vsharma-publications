@@ -21,6 +21,38 @@ research from scratch.
 4. **Build the web page** (papers list + citation-growth charts).
 5. **Publish it live** and share the URL.
 
+## Page spec (decided with Vagisha 2026-07-20, before building)
+
+- **Hosting:** GitHub Pages, from this repo.
+- **Style:** Dashboard-style — stat tiles + interactive charts, not a plain
+  academic list.
+- **Stat tiles:** total papers, total citations, h-index (computed from the
+  data), years active / most recent year.
+- **Papers table:** columns = title, authors (first + last, up to 4 in the
+  middle), year, venue, publication type, citation count. Sortable and
+  filterable by the visitor; default sort = most cited first.
+- **Charts (all interactive):**
+  1. Citations per year
+  2. Cumulative citations over time
+  3. Publications per year
+  4. Per-paper citation breakdown (view/compare an individual paper's trend)
+  - Citation-year data starts at **2012** (OpenAlex's per-year breakdown
+    doesn't go back further; ~42 of ~4,982 total citations, <1%, predate
+    2012 and are not shown per-year — decided to just start the chart at
+    2012 rather than adding an "unknown year" bucket).
+- **Page header:** name "Vagisha Sharma" as the title, affiliation shown,
+  link out to ORCID. No bio text, no photo.
+- **Theme:** light + dark, following system/browser preference.
+- **Data refresh:** manual for now — rerun `fetch_openalex_works.py` then
+  `filter_works.py`, then rebuild/redeploy the page. No scheduled automation
+  (GitHub Actions) yet.
+
+### Known gap to close before building
+- The papers table needs **authors**, which the current OpenAlex fetch
+  script does not pull yet (only title/year/type/venue/link/citations).
+  Need to extend `fetch_openalex_works.py` (and re-run `filter_works.py`)
+  to include an authors list per work before the page can be built.
+
 ## Log
 
 ### 2026-07-20 — Step 3: fetching the publication dataset from OpenAlex
