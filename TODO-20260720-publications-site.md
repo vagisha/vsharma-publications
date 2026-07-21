@@ -32,8 +32,21 @@ research from scratch.
   `user.email "vagisha@gmail.com"`) — no global git config existed on this
   machine beforehand.
 
-### 2026-07-20 — Step 2: choosing a data source (not yet decided)
+### 2026-07-20 — Step 2: choosing a data source
 - Candidate sources to evaluate: Google Scholar (scraping, no official API),
   ORCID profile, PubMed/NCBI E-utilities, Semantic Scholar API, DBLP.
-- Need Vagisha's ORCID ID / Google Scholar profile URL / PubMed author query
-  to proceed.
+- Found and verified Vagisha's ORCID: **0000-0003-1922-439X**
+  (https://orcid.org/0000-0003-1922-439X) — name "Vagisha Sharma", employment
+  University of Washington Genome Sciences since Aug 2019. Awaiting her
+  confirmation this is correct.
+- Caveat: only 3 works are listed directly on the ORCID record itself (not
+  auto-synced), so ORCID alone is likely NOT a complete publication list.
+  Likely need to cross-reference with Google Scholar and/or PubMed/Semantic
+  Scholar (which can look up by ORCID) to get full paper + citation-count
+  data.
+- How this was found: pub.orcid.org's `expanded-search` endpoint with
+  `q=family-name:Sharma+AND+given-names:Vagisha` returned 4 candidates;
+  matched on institution "University of Washington". (A generic web search
+  first suggested a different, incorrect ORCID belonging to another
+  researcher — always verify an ORCID candidate against the record's own
+  employment/institution data before trusting it.)
