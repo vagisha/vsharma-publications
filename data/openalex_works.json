@@ -1,0 +1,1127 @@
+[
+  {
+    "openalex_id": "https://openalex.org/W4416059040",
+    "title": "The ProteomeXchange consortium in 2026: making proteomics data FAIR",
+    "year": 2025,
+    "type": "article",
+    "venue": "Nucleic Acids Research",
+    "link": "https://doi.org/10.1093/nar/gkaf1146",
+    "cited_by_count_total": 33,
+    "citations_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 31
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4411370226",
+    "title": "Comet Fragment-Ion Indexing for Enhanced Peptide Sequencing",
+    "year": 2025,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/acs.jproteome.4c01094",
+    "cited_by_count_total": 4,
+    "citations_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 4
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4408392636",
+    "title": "Comprehensive Proteomics Metadata and Integrative Web Portals Facilitate Sharing and Integration of LINCS Multiomics Data",
+    "year": 2025,
+    "type": "article",
+    "venue": "Molecular & Cellular Proteomics",
+    "link": "https://doi.org/10.1016/j.mcpro.2025.100947",
+    "cited_by_count_total": 1,
+    "citations_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4413094228",
+    "title": "Corrigendum to “Comprehensive Proteomics Metadata and Integrative Web Portals Facilitate Sharing and Integration of LINCS Multiomics Data”",
+    "year": 2025,
+    "type": "erratum",
+    "venue": "Molecular & Cellular Proteomics",
+    "link": "https://doi.org/10.1016/j.mcpro.2025.100995",
+    "cited_by_count_total": 0,
+    "citations_by_year": []
+  },
+  {
+    "openalex_id": "https://openalex.org/W4402363242",
+    "title": "A Framework for Quality Control in Quantitative Proteomics",
+    "year": 2024,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/acs.jproteome.4c00363",
+    "cited_by_count_total": 28,
+    "citations_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 10
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4394790058",
+    "title": "A framework for quality control in quantitative proteomics",
+    "year": 2024,
+    "type": "preprint",
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "link": "https://doi.org/10.1101/2024.04.12.589318",
+    "cited_by_count_total": 6,
+    "citations_by_year": [
+      {
+        "year": 2024,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4403422134",
+    "title": "Comet fragment-ion indexing for enhanced peptide sequencing",
+    "year": 2024,
+    "type": "preprint",
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "link": "https://doi.org/10.1101/2024.10.11.617953",
+    "cited_by_count_total": 2,
+    "citations_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4308834828",
+    "title": "The ProteomeXchange consortium at 10 years: 2023 update",
+    "year": 2022,
+    "type": "article",
+    "venue": "Nucleic Acids Research",
+    "link": "https://doi.org/10.1093/nar/gkac1040",
+    "cited_by_count_total": 876,
+    "citations_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 142
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 301
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 296
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 136
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4213271093",
+    "title": "A Modified Feature Optimization Approach with Convolutional Neural Network for Apple Leaf Disease Detection",
+    "year": 2022,
+    "type": "conference-paper",
+    "venue": "Lecture notes in networks and systems",
+    "link": "https://doi.org/10.1007/978-3-030-96299-9_54",
+    "cited_by_count_total": 2,
+    "citations_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W4200628136",
+    "title": "Skyline Batch: An Intuitive User Interface for Batch Processing with Skyline",
+    "year": 2021,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/acs.jproteome.1c00749",
+    "cited_by_count_total": 9,
+    "citations_by_year": [
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W3195784177",
+    "title": "Proteomic profiling dataset of chemical perturbations in multiple biological backgrounds",
+    "year": 2021,
+    "type": "data-paper",
+    "venue": "Scientific Data",
+    "link": "https://doi.org/10.1038/s41597-021-01008-4",
+    "cited_by_count_total": 17,
+    "citations_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W3000364256",
+    "title": "A proteomic atlas of senescence-associated secretomes for aging biomarker development",
+    "year": 2020,
+    "type": "article",
+    "venue": "PLoS Biology",
+    "link": "https://doi.org/10.1371/journal.pbio.3000599",
+    "cited_by_count_total": 1312,
+    "citations_by_year": [
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 83
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 183
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 213
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 222
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 246
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 229
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 133
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W3003572520",
+    "title": "Skyline for Small Molecules: A Unifying Software Package for Quantitative Metabolomics",
+    "year": 2020,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/acs.jproteome.9b00640",
+    "cited_by_count_total": 637,
+    "citations_by_year": [
+      {
+        "year": 2020,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 57
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 76
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 117
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 157
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 140
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 77
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W3030308483",
+    "title": "Audit logs to enforce document integrity in Skyline and Panorama",
+    "year": 2020,
+    "type": "article",
+    "venue": "Bioinformatics",
+    "link": "https://doi.org/10.1093/bioinformatics/btaa547",
+    "cited_by_count_total": 5,
+    "citations_by_year": [
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W3002003161",
+    "title": "The HUPO-PSI standardized spectral library format",
+    "year": 2020,
+    "type": "conference-paper",
+    "venue": "Ghent University Academic Bibliography (Ghent University)",
+    "link": "https://doi.org/10.5281/zenodo.3607178",
+    "cited_by_count_total": 0,
+    "citations_by_year": []
+  },
+  {
+    "openalex_id": "https://openalex.org/W2986041539",
+    "title": "The ProteomeXchange consortium in 2020: enabling ‘big data’ approaches in proteomics",
+    "year": 2019,
+    "type": "article",
+    "venue": "Nucleic Acids Research",
+    "link": "https://doi.org/10.1093/nar/gkz984",
+    "cited_by_count_total": 778,
+    "citations_by_year": [
+      {
+        "year": 2019,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 80
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 159
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 207
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 159
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 111
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 50
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 10
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2937477596",
+    "title": "A Proteomic Atlas of Senescence-Associated Secretomes for Aging Biomarker Development",
+    "year": 2019,
+    "type": "preprint",
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "link": "https://doi.org/10.1101/604306",
+    "cited_by_count_total": 111,
+    "citations_by_year": [
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 36
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 21
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 21
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2937896859",
+    "title": "piNET: a versatile web platform for downstream analysis and visualization of proteomics data",
+    "year": 2019,
+    "type": "preprint",
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "link": "https://doi.org/10.1101/607432",
+    "cited_by_count_total": 2,
+    "citations_by_year": [
+      {
+        "year": 2020,
+        "cited_by_count": 2
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2793610094",
+    "title": "Panorama Public: A Public Repository for Quantitative Data Sets Processed in Skyline",
+    "year": 2018,
+    "type": "article",
+    "venue": "Molecular & Cellular Proteomics",
+    "link": "https://doi.org/10.1074/mcp.ra117.000543",
+    "cited_by_count_total": 286,
+    "citations_by_year": [
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 22
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 40
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 42
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 39
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 37
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 42
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 38
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 16
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2751974426",
+    "title": "A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations",
+    "year": 2018,
+    "type": "article",
+    "venue": "Cell Systems",
+    "link": "https://doi.org/10.1016/j.cels.2018.03.012",
+    "cited_by_count_total": 96,
+    "citations_by_year": [
+      {
+        "year": 2017,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 13
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2952121778",
+    "title": "A Library of Phosphoproteomic and Chromatin Signatures for Characterizing Cellular Responses to Drug Perturbations",
+    "year": 2017,
+    "type": "preprint",
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "link": "https://doi.org/10.1101/185918",
+    "cited_by_count_total": 3,
+    "citations_by_year": [
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2469445017",
+    "title": "Using the CPTAC Assay Portal to Identify and Implement Highly Characterized Targeted Proteomics Assays",
+    "year": 2016,
+    "type": "book-chapter",
+    "venue": "Methods in molecular biology",
+    "link": "https://doi.org/10.1007/978-1-4939-3524-6_13",
+    "cited_by_count_total": 101,
+    "citations_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 60
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2524383220",
+    "title": "An Automated Pipeline to Monitor System Performance in Liquid Chromatography–Tandem Mass Spectrometry Proteomic Experiments",
+    "year": 2016,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/acs.jproteome.6b00744",
+    "cited_by_count_total": 74,
+    "citations_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W768464191",
+    "title": "Visualization and Dissemination of Multidimensional Proteomics Data Comparing Protein Abundance During <i>Caenorhabditis elegans</i> Development",
+    "year": 2015,
+    "type": "article",
+    "venue": "Journal of the American Society for Mass Spectrometry",
+    "link": "https://doi.org/10.1007/s13361-015-1193-z",
+    "cited_by_count_total": 7,
+    "citations_by_year": [
+      {
+        "year": 2016,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2012900739",
+    "title": "CPTAC Assay Portal: a repository of targeted proteomic assays",
+    "year": 2014,
+    "type": "article",
+    "venue": "Nature Methods",
+    "link": "https://doi.org/10.1038/nmeth.3002",
+    "cited_by_count_total": 265,
+    "citations_by_year": [
+      {
+        "year": 2014,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 11
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 12
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 16
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 24
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 36
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 19
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 75
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 7
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W1995403127",
+    "title": "Panorama: A Targeted Proteomics Knowledge Base",
+    "year": 2014,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/pr5006636",
+    "cited_by_count_total": 237,
+    "citations_by_year": [
+      {
+        "year": 2014,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 24
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 24
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 27
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 28
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 17
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 4
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2101186567",
+    "title": "A framework for installable external tools in Skyline",
+    "year": 2014,
+    "type": "article",
+    "venue": "Bioinformatics",
+    "link": "https://doi.org/10.1093/bioinformatics/btu148",
+    "cited_by_count_total": 36,
+    "citations_by_year": [
+      {
+        "year": 2014,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2015278001",
+    "title": "XLink-DB: Database and Software Tools for Storing and Visualizing Protein Interaction Topology Data",
+    "year": 2013,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/pr301162j",
+    "cited_by_count_total": 50,
+    "citations_by_year": [
+      {
+        "year": 2013,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2033758263",
+    "title": "A Mass Spectrometry Proteomics Data Management Platform",
+    "year": 2012,
+    "type": "article",
+    "venue": "Molecular & Cellular Proteomics",
+    "link": "https://doi.org/10.1074/mcp.o111.015149",
+    "cited_by_count_total": 41,
+    "citations_by_year": [
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2026,
+        "cited_by_count": 3
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W818589921",
+    "title": "P1) Technology Development in a Multidisciplinary Center",
+    "year": 2012,
+    "type": "article",
+    "venue": "Europe PMC (PubMed Central)",
+    "link": "http://europepmc.org/articles/PMC3630640",
+    "cited_by_count_total": 0,
+    "citations_by_year": []
+  },
+  {
+    "openalex_id": "https://openalex.org/W1981285461",
+    "title": "Precursor Charge State Prediction for Electron Transfer Dissociation Tandem Mass Spectra",
+    "year": 2010,
+    "type": "article",
+    "venue": "Journal of Proteome Research",
+    "link": "https://doi.org/10.1021/pr1006685",
+    "cited_by_count_total": 13,
+    "citations_by_year": [
+      {
+        "year": 2012,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2016,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 2
+      }
+    ]
+  },
+  {
+    "openalex_id": "https://openalex.org/W2068703118",
+    "title": "Corra: Computational framework and tools for LC-MS discovery and targeted mass spectrometry-based proteomics",
+    "year": 2008,
+    "type": "article",
+    "venue": "BMC Bioinformatics",
+    "link": "https://doi.org/10.1186/1471-2105-9-542",
+    "cited_by_count_total": 74,
+    "citations_by_year": [
+      {
+        "year": 2012,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2013,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2014,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2015,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2017,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2018,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2019,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ]
+  }
+]
