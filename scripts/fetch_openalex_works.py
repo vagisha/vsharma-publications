@@ -75,6 +75,22 @@ def venue_name(work):
     return source.get("display_name") or ""
 
 
+def author_names(work):
+    return [
+        a["author"]["display_name"]
+        for a in work.get("authorships", [])
+        if a.get("author", {}).get("display_name")
+    ]
+
+
+def format_authors_display(names):
+    """First and last author, plus up to 4 authors in between."""
+    if len(names) <= 6:
+        return ", ".join(names)
+    middle = names[1:-1][:4]
+    return ", ".join([names[0], *middle, "...", names[-1]])
+
+
 def normalize(work):
     counts_by_year = sorted(
         (
@@ -83,9 +99,12 @@ def normalize(work):
         ),
         key=lambda c: c["year"],
     )
+    authors = author_names(work)
     return {
         "openalex_id": work.get("id"),
         "title": work.get("title") or work.get("display_name"),
+        "authors": authors,
+        "authors_display": format_authors_display(authors),
         "year": work.get("publication_year"),
         "type": work.get("type"),
         "venue": venue_name(work),
@@ -122,7 +141,7 @@ def write_xlsx(works, path):
     ws.title = "OpenAlex works"
 
     headers = [
-        "Title", "Year", "Type", "Venue", "Link",
+        "Title", "Authors", "Year", "Type", "Venue", "Link",
         "Total citations", "Citations by year", "Not mine? (mark X)",
     ]
     ws.append(headers)
@@ -133,6 +152,7 @@ def write_xlsx(works, path):
         )
         ws.append([
             w["title"],
+            w["authors_display"],
             w["year"],
             w["type"],
             w["venue"],
@@ -142,7 +162,7 @@ def write_xlsx(works, path):
             "",
         ])
 
-    widths = [55, 8, 14, 30, 45, 12, 40, 18]
+    widths = [55, 40, 8, 14, 30, 45, 12, 40, 18]
     for i, width in enumerate(widths, start=1):
         ws.column_dimensions[get_column_letter(i)].width = width
     ws.freeze_panes = "A2"

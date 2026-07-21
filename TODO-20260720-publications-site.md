@@ -47,11 +47,21 @@ research from scratch.
   `filter_works.py`, then rebuild/redeploy the page. No scheduled automation
   (GitHub Actions) yet.
 
-### Known gap to close before building
-- The papers table needs **authors**, which the current OpenAlex fetch
-  script does not pull yet (only title/year/type/venue/link/citations).
-  Need to extend `fetch_openalex_works.py` (and re-run `filter_works.py`)
-  to include an authors list per work before the page can be built.
+### Gap closed — authors added (2026-07-20)
+- Extended `fetch_openalex_works.py` to pull `authorships` from OpenAlex.
+  Each work now has:
+  - `authors`: full ordered list of author display names (for data
+    completeness/reuse)
+  - `authors_display`: pre-formatted string per the table spec — first
+    author, up to 4 authors from the middle, then "...", then last author
+    (only truncated if more than 6 authors total)
+  - Added an "Authors" column to the review spreadsheet too.
+- Re-ran `fetch_openalex_works.py` then `filter_works.py` — same 27-work
+  clean dataset as before, now with authors. No change to the
+  exclusion/dedup decisions.
+- `data/openalex_works_filtered.json` is now the complete dataset the page
+  should be built from (title, authors, year, type, venue, link, citations,
+  per-year citations).
 
 ## Log
 
